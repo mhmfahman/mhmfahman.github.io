@@ -1,0 +1,29 @@
+[
+  {
+    "company": "Bareq Sri Lanka",
+    "role": "Software Engineer - AI",
+    "period": "Feb 2025 - Present",
+    "contributions": [
+      "Contributing to the development of VisionTera, an AI-based intelligent video analytics system designed to monitor customer behavior and crowd density in shopping malls and supermarkets.",
+      "Implemented a real-time people detection pipeline using YOLOv26m, fine-tuned with the CrowdHuman dataset to improve detection accuracy in high-density environments.",
+      "Developed a gender classification model using ResNet50 trained on large-scale image datasets to classify detected individuals.",
+      "Integrated facial expression recognition to analyze customer emotions and behavior patterns for business intelligence and analytics.",
+      "Built and integrated a full-stack monitoring dashboard using React.js and .NET, enabling real-time visualization of AI detection results, analytics insights, and system monitoring."
+    ],
+    "technologies": ["Python", "YOLOv26", "ResNet50", "PyTorch", "OpenCV", "React.js", ".NET", "REST APIs"]
+  },
+  {
+    "company": "SwartUp (Pvt) Ltd",
+    "role": "Software Engineering Intern - Completeful Project",
+    "period": "Aug 2024 - Feb 2025",
+    "contributions": [
+      "Contributed to developing a scalable full-stack application using a clean and maintainable MVC architecture.",
+      "Enhanced merchant workflows by designing and implementing new features for order redo requests, order cancellations, and customizable product design reviews.",
+      "Refactored legacy code to improve maintainability and troubleshoot bugs.",
+      "Documented features and maintained technical documentation for development and operational processes.",
+      "Collaborated with cross-functional teams following Agile methodologies to deliver high-quality features.",
+      "Gained experience with CI/CD workflows, version control (Git), and modern DevOps practices."
+    ],
+    "technologies": ["Vue.js", "JavaScript", "Laravel", "PHP", "Tailwind CSS", "MySQL", "AWS", "Docker", "Asana"]
+  }
+]

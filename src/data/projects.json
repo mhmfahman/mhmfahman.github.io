@@ -1,0 +1,45 @@
+[
+  {
+    "title": "AI-Driven Serious Game for GDPR Compliance",
+    "github": "https://github.com/MohamedFahman",
+    "period": "Jan 2025 - Aug 2025",
+    "description": "Leading the development of a game-based learning framework that utilizes interactive and adaptive learning to educate software developers on GDPR principles and privacy-preserving practices.",
+    "contributions": [
+      "Integrates Q-learning to dynamically adapt challenge difficulty based on individual player performance.",
+      "Incorporates Large Language Models (LLMs) to deliver real-time and formative feedback.",
+      "Implemented JWT-based secure authentication and role-based authorization for protected APIs and user sessions.",
+      "Investigating how adaptive gamification improves GDPR compliance awareness and influences secure developer practices."
+    ],
+    "technologies": ["React.js", "Node.js", "MongoDB", "Python", "OpenAI API", "Docker", "Jenkins", "Kubernetes"]
+  },
+  {
+    "title": "AI-Powered Chat Support System",
+    "github": "https://github.com/MohamedFahman",
+    "period": "July 2025 - Present",
+    "description": "A customer support web application where users can chat with support agents. If the AI cannot resolve the issue, the system automatically creates a support ticket that human agents can follow up on.",
+    "contributions": [
+      "Building a React frontend with JWT authentication & live chat interface.",
+      "Implementing a node backend with REST APIs, WebSockets, and secure session handling."
+    ],
+    "technologies": ["React", "Node.js", "TypeScript", "WebSockets", "PostgreSQL", "OpenAI API"]
+  },
+  {
+    "title": "Smart Waste Management System",
+    "github": "https://github.com/MohamedFahman",
+    "period": "Nov 2023 - Feb 2024",
+    "description": "A system to optimize waste collection processes using mobile and web applications. Users can easily check the status of the smart bin, follow a collection schedule, and provide feedback.",
+    "contributions": [
+      "Designed and developed web and mobile applications along with backend services, ensuring seamless system functionality.",
+      "Deployed services on AWS, conducted thorough testing and debugging, and created supporting technical documentation."
+    ],
+    "technologies": ["React.js", "React Native", "Node.js", "Express.js", "MongoDB", "AWS (EC2, IoT Core)", "MQTT", "JWT"]
+  },
+  {
+    "title": "Quiz Application",
+    "github": "https://github.com/MohamedFahman",
+    "period": "Jun 2024 - Jul 2024",
+    "description": "Developed a comprehensive Quiz Application using Spring Boot, featuring question management, quiz creation, and submission evaluation, utilizing Spring Data JPA for database operations and Hibernate as the ORM tool, and designed RESTful APIs for seamless interaction, showcasing expertise in REST API design.",
+    "contributions": [],
+    "technologies": ["Spring Boot", "Java", "PostgreSQL", "RESTful API", "Postman"]
+  }
+]

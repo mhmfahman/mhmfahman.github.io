@@ -1,0 +1,9 @@
+{
+  "Programming Languages": ["Java", "Python", "JavaScript", "TypeScript", "PHP", "C"],
+  "Frontend Technologies": ["React.js", "Next.js", "Vue.js", "React Native", "HTML", "CSS", "Tailwind CSS"],
+  "Backend Technologies": ["Node.js", "Express.js", "Laravel", "Spring Boot"],
+  "Databases": ["MySQL", "MongoDB", "PostgreSQL", "Firebase"],
+  "Cloud Platforms": ["AWS (EC2, S3, IoT Core)"],
+  "DevOps & CI/CD": ["Docker", "Kubernetes", "Jenkins", "Git", "GitHub"],
+  "Methodologies & Soft Skills": ["Agile/Scrum", "Problem-solving", "Communication", "Teamwork", "Innovation", "Adaptability"]
+}
